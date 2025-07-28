@@ -14,7 +14,7 @@ spec:
   sources:
     - repoURL: 'https://github.com/kenmoini/naas-definitions/'
       targetRevision: HEAD
-      path: clusters/sandbox/
+      path: dev-namespaces/app-team-kemo/
       kustomize: {}
   project: default
   syncPolicy:
