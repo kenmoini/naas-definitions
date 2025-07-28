@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: d-app-kemo-rohit-dev
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: d-app-kemo-rohit-test
