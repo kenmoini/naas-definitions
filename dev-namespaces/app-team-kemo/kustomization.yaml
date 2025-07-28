@@ -4,3 +4,4 @@ kind: Kustomization
 
 resources:
   - d-app-kemo/
+  - d-app-rohit/
