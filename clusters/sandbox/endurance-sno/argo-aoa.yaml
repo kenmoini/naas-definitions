@@ -15,8 +15,6 @@ spec:
     - repoURL: 'https://github.com/kenmoini/naas-definitions/'
       targetRevision: HEAD
       path: clusters/sandbox/
-      directory:
-        recurse: true
       kustomize: {}
   project: default
   syncPolicy:
